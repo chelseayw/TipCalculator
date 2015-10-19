@@ -84,7 +84,6 @@
                     </view>
                     <connections>
                         <outlet property="billField" destination="q1u-Sx-8mE" id="L5W-Bz-0Ao"/>
-                        <outlet property="onTap" destination="ZhI-zs-cnL" id="MNg-qX-xsz"/>
                         <outlet property="tipControl" destination="xv8-HQ-L9D" id="481-af-TSu"/>
                         <outlet property="tipLabel" destination="RrD-E1-plo" id="DHb-Dc-jfe"/>
                         <outlet property="totalLabel" destination="ef7-aU-cVO" id="4Pu-Uh-IXb"/>
